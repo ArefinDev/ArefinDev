@@ -24,11 +24,11 @@
 
 ###
 
-<h1 align="center">Hello Visitor 👋</h1>
+<h1 align="center">Welcome to my GitHub space! 👋</h1>
 
 ###
 
-<h3 align="left">👩‍💻  Curios about me?</h3>
+<h3 align="left">👩‍💻  Curious about me?</h3>
 
 ###
 

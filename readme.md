@@ -32,7 +32,7 @@
 
 ###
 
-<p align="left">I'm Adnan Arefin Full Stack Developer & Certified Ethical Hacker<br><br>- 🔭 I’m working as Full Stack Developer<br>- 📚 I'm currently learning scalable application architecture<br>- ⚡ In my free time I love to watch movies</p>
+<p align="left">I'm Adnan Arefin. Full Stack Developer & Certified Ethical Hacker<br><br>- 🔭 I’m working as Full Stack Developer<br>- 📚 I'm currently learning scalable application architecture<br>- ⚡ In my free time I love to watch movies</p>
 
 ###
 

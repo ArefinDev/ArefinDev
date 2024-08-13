@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img height="150" src="https://drive.google.com/file/d/1weXtmwmshOPLOzfrkBfoPdWKUwD56qrA/view"  />
+  <img height="150" src="https://res.cloudinary.com/arefinite/image/upload/v1723541356/fvbybirfie2agl8wozay.png"  />
 </div>
 
 ###
